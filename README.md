@@ -15,7 +15,7 @@ This quick detection system can be widely used in travel scenes, with mobile pho
 - cuda/cudnn(if GPU is used)
 - Caffe
 
-## Installation
+## Installation...a small trial
 - Clone the repository. We'll call the directory that you cloned as MASK_ROOT.
 ```bash
 git clone git@github.com:didi/maskdetection.git
